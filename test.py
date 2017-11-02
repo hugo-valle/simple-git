@@ -2,5 +2,6 @@ print("Another Change 1")
 print("Another Change 2")
 print("Another Change 3")
 print("Another Change 4")
-
 print("Hot Fix")
+print("Add new feature 5")
+print("Add new feature 6")
